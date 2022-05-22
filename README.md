@@ -5,4 +5,4 @@ Projeto desenvolvido em um grupo 6 alunos para simular um app de jogos, onde pod
 
 Espero que gostem;
 
-se não obtiver sucesso, aqui esta o link para assistir https://www.youtube.com/watch?v=56gHB7EZmo0&list=LL&index=66&t=116s 
+se não obtiver sucesso, aqui esta o link para assistir https://www.youtube.com/watch?v=56gHB7EZmo0&list=LL&index=66
